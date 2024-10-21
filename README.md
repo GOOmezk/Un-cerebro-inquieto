@@ -1,2 +1,2 @@
 # Un-cerebro-inquieto
-Aca se muestra un projecto desarrollado en la insitucion educa
+Aca se muestra un projecto desarrollado en la Institución Educativa Técnico Dámaso Zapata en la cual se genera un pensamiento steam en los alumnos para generar activades o proyectos con el enfoque de atribuir o dar a la sociedad o comunidad herramientas las cuales seas esenciales para el crecimiento y desarrollo de la ideas.En este caso  a traves de un cuestionario se busca el fin que el estudiante repase los temas y conceptos de estos lo cual ayuda a un mejor desarrollo y repaso de conceptos los cuales seran util dependiendo del interes del invididuo.
